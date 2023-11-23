@@ -1,6 +1,6 @@
 module rss-slack-integration
 
-go 1.21.4
+go 1.21
 
 require github.com/mmcdole/gofeed v1.2.1
 
