@@ -1,0 +1,5 @@
+rss_feeds:
+  - "http://feed1.com/rss"
+  - "http://feed2.com/rss"
+slack_webhook: "https://hooks.slack.com/services/XXXX/YYYY/ZZZZ"
+max_news_count: 5
